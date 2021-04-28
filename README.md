@@ -2,9 +2,6 @@
 
 <!--
 **KumaranSahi/KumaranSahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📌 I'm Muthu Kumaran and I love making stuff!
+- 📌 I love learning new things and perfecting my craft.
+- 📌 My technical skills include :
+    - 💻*Language:*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+    - 💻*Front-End Development:* <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> 
+    - 💻*Back-End Development:* <img align="center" height="30" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img align="center" height="30" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+ 
+ - 📌 I work as a frontend developer in TCS.
+ - 📌Here's a link to my [Portfolio](https://kumaran.netlify.app/)
+ 
+Get in touch [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/muthu-kumaran-760735184/)
